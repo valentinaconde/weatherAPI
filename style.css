@@ -1,0 +1,45 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-size: x-large;
+}
+
+
+#search{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#temp{
+    font-weight: bolder;
+    font-size: 400%;
+}
+
+.maxMin{
+    display: flex;
+}
+
+#feelsLike{
+    font-size: large;
+    margin-bottom: 30px;
+}
+
+#tempMax{
+    margin-left: 50px;
+}
+
+#app{
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.dia{
+    background-color: #dadada;
+    color: black;
+}
+
+.noche{
+	background-color: #003275;
+    color: white;
+}
